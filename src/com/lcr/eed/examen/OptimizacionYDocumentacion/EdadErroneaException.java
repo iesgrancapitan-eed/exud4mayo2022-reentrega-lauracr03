@@ -1,4 +1,4 @@
-package examenOptimizacionYDocumentacion;
+package com.lcr.eed.examen.OptimizacionYDocumentacion;
 
 public class EdadErroneaException extends Exception {
 
